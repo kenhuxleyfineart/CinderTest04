@@ -15,6 +15,7 @@ class ArtmachineApp : public AppNative {
 
 void ArtmachineApp::setup()
 {
+	//change to this file
 }
 
 void ArtmachineApp::mouseDown( MouseEvent event )
